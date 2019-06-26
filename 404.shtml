@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- div container -->
+    <div style="
+        display: flex;
+        background: rgba(228, 5, 5, 0.5);
+        width: 100vw;
+        height: 100vh;
+        justify-content:center;
+        align-items:center;
+    ">
+
+
+        <!-- contenedor mini -->
+        <div style="
+        font-size: 1rem;
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+        
+        ">
+
+        <!-- div 404 -->
+        <div style="
+        font-size: 20em;
+        font-family: sans-serif;
+        font-weight:bolder;
+        
+        
+        
+        ">
+            4
+            <img src="_assets/icon/ghost.svg" alt="">
+            4
+        </div>
+
+        <!-- frase -->
+        <h4 style="
+            margin: 0;
+            font-size: 3rem;
+        
+        ">Lorem ipsum dolor sit amet.</h4>
+
+        <!-- frase conductora -->
+        <h5 style="
+            font-size: 2rem;
+            color: #424242;
+            margin: 0;
+        ">
+            Lorem ipsum dolor sit amet.
+            <!-- enlace index -->
+            <a style="
+            color: #b72d2d;
+            
+            " href="">Pulsa aquí.</a>
+        </h5>
+
+    </div>
+
+    </div>
+
+
+</body>
+</html>
