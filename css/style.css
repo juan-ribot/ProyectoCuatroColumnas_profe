@@ -11,7 +11,7 @@
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  background-color: yellow;
+  background-color: rgb(242, 0, 255);
 }
 
 .moduloCentral__contenido {
